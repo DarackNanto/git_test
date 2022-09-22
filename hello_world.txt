@@ -1,0 +1,3 @@
+Hello, 
+Git is pretty awesome it is like a super save button.
+It save a snapshot of your working file or directory and enables great collaboration.
